@@ -1,0 +1,12 @@
+table{
+    background: black;
+    border: 5px double;
+    color: green;
+    font-size: 36px;
+};
+td,th{
+ padding: 5px;
+ border: 1px solid;
+color: white;
+};
+
